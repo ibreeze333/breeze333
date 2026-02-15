@@ -8,7 +8,11 @@ Breeze333 Music & Code Project
 ##  폴더 구조 및 라이선스
 각 폴더와 파일은 개별 라이선스를 따르고 있으니 확인 부탁드립니다.
 
-##  링크
+## 자료실 (Google Drive)
+파일 용량이 큰 음원과 영상은 아래 구글 드라이브 폴더에서 안전하게 확인하실 수 있습니다.
+- [ Breeze333 공유 폴더 바로가기](https://drive.google.com/drive/folders/1LYZ0h093ggr6XxYdsAIHPgUDS62vXV5s?usp=sharing)
+
+##  SNS 링크
 * [YouTube 채널](https://youtube.com/@jwl453)
 * [TikTok](https://www.tiktok.com/@jw.l712)
 * [Threads](https://www.threads.com/@ibreeze333)
